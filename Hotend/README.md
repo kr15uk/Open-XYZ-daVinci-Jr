@@ -9,3 +9,4 @@ E3D v6 - To mount generic v6 or Lite6 hotend (technically should work with AliEx
 
 
 === https://www.thingiverse.com/thing:1724209
+=== https://www.thingiverse.com/thing:2156686
